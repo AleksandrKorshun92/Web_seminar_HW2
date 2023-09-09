@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: rgb(102, 190, 205);
+}
+h2{
+    color: chocolate;
+}
+p{
+    color: rgb(164, 230, 186);
+}
+a{
+    color: rgb(231, 236, 230);
+}
+ul{
+    list-style-type: square;
+}
+p.text{
+    color: #e68989;
+    font-size: 1.5rem;
+}
